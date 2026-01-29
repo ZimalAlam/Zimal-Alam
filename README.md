@@ -1,1 +1,1 @@
-# Zimal-Alam
+AI/ML Engineer with hands-on experience building end-to-end machine learning and Generative AI systems, from model development to deployment. Skilled in LLM applications, Retrieval-Augmented Generation (RAG), NLP, and computer vision, with experience serving models through APIs and optimizing inference pipelines. Passionate about turning AI research into scalable, production-ready systems that solve real-world problems.
